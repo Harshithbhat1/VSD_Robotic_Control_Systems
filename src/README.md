@@ -8,7 +8,7 @@ Performs filtering using Kalman equations.
 
 Outputs a smoothed prediction using fixed-point math.
 
-2) **Simulation of I2C master**
+2) **Simulation of I2C master**(for IMU sensor)
 
 Generating the I2C start and stop conditions.
 
