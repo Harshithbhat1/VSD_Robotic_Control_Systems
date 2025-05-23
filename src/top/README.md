@@ -4,8 +4,6 @@ Simulation of top module consisting of both I2C and 1 Dimensional Kalman filter
 
 **Mathematical Equations for 1D kalman filter**
 
-Given:
-
     Measurement: a
 
     State estimate: uh
